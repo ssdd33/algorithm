@@ -1,0 +1,23 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "algorithm ps & data structure study",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:/./stack & queue/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssdd33/algorithm.git"
+  },
+  "author": "yeseul kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssdd33/algorithm/issues"
+  },
+  "homepage": "https://github.com/ssdd33/algorithm#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.27.0"
+  }
+}
